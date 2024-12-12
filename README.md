@@ -89,14 +89,14 @@
 
 6. code .  (και ανοιγει το περιβαλλον του Visual code με τα αχρεια)
 
- my_robot_controller
- __init__.py
- resource
- my_robot_controller
- test
- package.xml
- setup.cfg
- setup.py
+ 7.my_robot_controller
+ 8.__init__.py
+ 9.resource
+ 10.my_robot_controller
+ 11.test
+ 12.package.xml
+ 13.setup.cfg
+ 14.setup.py
 
 και  μετα 
 
